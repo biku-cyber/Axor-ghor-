@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "letter": "১",
+    "pronunciation": "Ek",
+    "word": "এক",
+    "english": "One",
+    "image": "assets/numbers/number001.png",
+    "audio": "assets/audio/numbers/number001.mp3",
+    "narration": "assets/audio/numbers/number001-narration.mp3",
+    "stroke": "assets/strokes/numbers/number001.svg"
+  },
+  {
+    "id": 2,
+    "letter": "২",
+    "pronunciation": "Dui",
+    "word": "দুই",
+    "english": "Two",
+    "image": "assets/numbers/number002.png",
+    "audio": "assets/audio/numbers/number002.mp3",
+    "narration": "assets/audio/numbers/number002-narration.mp3",
+    "stroke": "assets/strokes/numbers/number002.svg"
+  },
+  {
+    "id": 3,
+    "letter": "৩",
+    "pronunciation": "Tini",
+    "word": "তিনি",
+    "english": "Three",
+    "image": "assets/numbers/number003.png",
+    "audio": "assets/audio/numbers/number003.mp3",
+    "narration": "assets/audio/numbers/number003-narration.mp3",
+    "stroke": "assets/strokes/numbers/number003.svg"
+  },
+  {
+    "id": 4,
+    "letter": "৪",
+    "pronunciation": "Sari",
+    "word": "চাৰি",
+    "english": "Four",
+    "image": "assets/numbers/number004.png",
+    "audio": "assets/audio/numbers/number004.mp3",
+    "narration": "assets/audio/numbers/number004-narration.mp3",
+    "stroke": "assets/strokes/numbers/number004.svg"
+  },
+  {
+    "id": 5,
+    "letter": "৫",
+    "pronunciation": "Pach",
+    "word": "পাঁচ",
+    "english": "Five",
+    "image": "assets/numbers/number005.png",
+    "audio": "assets/audio/numbers/number005.mp3",
+    "narration": "assets/audio/numbers/number005-narration.mp3",
+    "stroke": "assets/strokes/numbers/number005.svg"
+  },
+  {
+    "id": 6,
+    "letter": "৬",
+    "pronunciation": "Soi",
+    "word": "ছয়",
+    "english": "Six",
+    "image": "assets/numbers/number006.png",
+    "audio": "assets/audio/numbers/number006.mp3",
+    "narration": "assets/audio/numbers/number006-narration.mp3",
+    "stroke": "assets/strokes/numbers/number006.svg"
+  },
+  {
+    "id": 7,
+    "letter": "৭",
+    "pronunciation": "xat",
+    "word": "সাত",
+    "english": "Seven",
+    "image": "assets/numbers/number007.png",
+    "audio": "assets/audio/numbers/number007.mp3",
+    "narration": "assets/audio/numbers/number007-narration.mp3",
+    "stroke": "assets/strokes/numbers/number007.svg"
+  },
+  {
+    "id": 8,
+    "letter": "৮",
+    "pronunciation": "Ath",
+    "word": "আঠ",
+    "english": "Eight",
+    "image": "assets/numbers/number008.png",
+    "audio": "assets/audio/numbers/number008.mp3",
+    "narration": "assets/audio/numbers/number008-narration.mp3",
+    "stroke": "assets/strokes/numbers/number008.svg"
+  },
+  {
+    "id": 9,
+    "letter": "৯",
+    "pronunciation": "No",
+    "word": "ন",
+    "english": "Nine",
+    "image": "assets/numbers/number009.png",
+    "audio": "assets/audio/numbers/number009.mp3",
+    "narration": "assets/audio/numbers/number009-narration.mp3",
+    "stroke": "assets/strokes/numbers/number009.svg"
+  },
+  {
+    "id": 10,
+    "letter": "১০",
+    "pronunciation": "Doh",
+    "word": "দহ",
+    "english": "Ten",
+    "image": "assets/numbers/number010.png",
+    "audio": "assets/audio/numbers/number010.mp3",
+    "narration": "assets/audio/numbers/number010-narration.mp3",
+    "stroke": "assets/strokes/numbers/number010.svg"
+  },
+
+  {
+    "id": 11,
+    "letter": "১১",
+    "pronunciation": "Egharo",
+    "word": "এঘাৰ",
+    "english": "Eleven",
+    "image": "assets/numbers/number011.png",
+    "audio": "assets/audio/numbers/number011.mp3",
+    "narration": "assets/audio/numbers/number011-narration.mp3",
+    "stroke": "assets/strokes/numbers/number011.svg"
+  },
+
+  {
+    "id": 12,
+    "letter": "১২",
+    "pronunciation": "Baro",
+    "word": "বাৰ",
+    "english": "Twelve",
+    "image": "assets/numbers/number012.png",
+    "audio": "assets/audio/numbers/number012.mp3",
+    "narration": "assets/audio/numbers/number012-narration.mp3",
+    "stroke": "assets/strokes/numbers/number012.svg"
+  },
+
+  {
+    "id": 13,
+    "letter": "১৩",
+    "pronunciation": "Tero",
+    "word": "তেৰ",
+    "english": "Thirteen",
+    "image": "assets/numbers/number013.png",
+    "audio": "assets/audio/numbers/number013.mp3",
+    "narration": "assets/audio/numbers/number013-narration.mp3",
+    "stroke": "assets/strokes/numbers/number013.svg"
+  },
+
+  {
+    "id": 14,
+    "letter": "১৪",
+    "pronunciation": "Soidho",
+    "word": "চৈধ্য",
+    "english": "Fourteen",
+    "image": "assets/numbers/number014.png",
+    "audio": "assets/audio/numbers/number014.mp3",
+    "narration": "assets/audio/numbers/number014-narration.mp3",
+    "stroke": "assets/strokes/numbers/number014.svg"
+  },
+
+  {
+    "id": 15,
+    "letter": "১৫",
+    "pronunciation": "Pundhoro",
+    "word": "পোন্ধৰ",
+    "english": "Fifteen",
+    "image": "assets/numbers/number015.png",
+    "audio": "assets/audio/numbers/number015.mp3",
+    "narration": "assets/audio/numbers/number015-narration.mp3",
+    "stroke": "assets/strokes/numbers/number015.svg"
+  },
+
+  {
+    "id": 16,
+    "letter": "১৬",
+    "pronunciation": "xullo",
+    "word": "ষোল্ল",
+    "english": "Sixteen",
+    "image": "assets/numbers/number016.png",
+    "audio": "assets/audio/numbers/number016.mp3",
+    "narration": "assets/audio/numbers/number016-narration.mp3",
+    "stroke": "assets/strokes/numbers/number016.svg"
+  },
+
+  {
+    "id": 17,
+    "letter": "১৭",
+    "pronunciation": "xutoro",
+    "word": "সোতৰ",
+    "english": "Seventeen",
+    "image": "assets/numbers/number017.png",
+    "audio": "assets/audio/numbers/number017.mp3",
+    "narration": "assets/audio/numbers/number017-narration.mp3",
+    "stroke": "assets/strokes/numbers/number017.svg"
+  },
+
+  {
+    "id": 18,
+    "letter": "১৮",
+    "pronunciation": "otharo",
+    "word": "ওঁঠৰ",
+    "english": "Eighteen",
+    "image": "assets/numbers/number018.png",
+    "audio": "assets/audio/numbers/number018.mp3",
+    "narration": "assets/audio/numbers/number018-narration.mp3",
+    "stroke": "assets/strokes/numbers/number018.svg"
+  },
+
+  {
+    "id": 19,
+    "letter": "১৯",
+    "pronunciation": "Unoix",
+    "word": "ঊনৈশ",
+    "english": "Nineteen",
+    "image": "assets/numbers/number019.png",
+    "audio": "assets/audio/numbers/number019.mp3",
+    "narration": "assets/audio/numbers/number019-narration.mp3",
+    "stroke": "assets/strokes/numbers/number019.svg"
+  },
+
+  {
+    "id": 20,
+    "letter": "২০",
+    "pronunciation": "Bix",
+    "word": "বিশ",
+    "english": "Twenty",
+    "image": "assets/numbers/number020.png",
+    "audio": "assets/audio/numbers/number020.mp3",
+    "narration": "assets/audio/numbers/number020-narration.mp3",
+    "stroke": "assets/strokes/numbers/number020.svg"
+  }
+
+]
