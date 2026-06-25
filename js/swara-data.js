@@ -16,7 +16,7 @@ const swaraData = [
 
 {letter:"এ",pronunciation:"E",image:"assets/swara/swara08.png",audio:"assets/audio/swara/swara08.mp3"},
 
-{letter:"ঐ",pronunciation:"OI",image:"assets/audio/swara/swara09.png",audio:"assets/audio/swara/swara09.mp3"},
+{letter:"ঐ",pronunciation:"OI",image:"assets/swara/swara09.png",audio:"assets/audio/swara/swara09.mp3"},
 
 {letter:"ও",pronunciation:"O",image:"assets/swara/swara10.png",audio:"assets/audio/swara/swara10.mp3"},
 
