@@ -322,6 +322,21 @@ fall 3s linear;
 
   }
 
+.dashboard-card{
+
+transition:
+.3s;
+
+}
+
+.dashboard-card:hover{
+
+transform:
+translateY(-6px)
+scale(1.05);
+
+}
+
 launchConfetti();
 
 showCompletion();
