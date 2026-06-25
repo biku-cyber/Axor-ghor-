@@ -227,3 +227,42 @@ Learn Again
 `;
 
 }
+
+let touchStart=0;
+
+document.addEventListener(
+"touchstart",
+e=>{
+
+touchStart =
+e.touches[0].clientX;
+
+}
+);
+
+document.addEventListener(
+"touchend",
+e=>{
+
+let touchEnd =
+e.changedTouches[0]
+.clientX;
+
+if(
+touchStart-touchEnd>50
+){
+
+nextBtn.click();
+
+}
+
+if(
+touchEnd-touchStart>50
+){
+
+prevBtn.click();
+
+}
+
+}
+);
