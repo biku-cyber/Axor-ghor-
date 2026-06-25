@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "letter": "অ",
+    "pronunciation": "A",
+    "word": "অজগৰ",
+    "english": "Python",
+    "image": "assets/swara/swara01.png",
+    "audio": "assets/audio/swara/swara01.mp3",
+    "narration": "assets/audio/swara/swara01-narration.mp3",
+    "stroke": "assets/strokes/swara/swara01.svg"
+  },
+  {
+    "id": 2,
+    "letter": "আ",
+    "pronunciation": "AA",
+    "word": "আম",
+    "english": "Mango",
+    "image": "assets/swara/swara02.png",
+    "audio": "assets/audio/swara/swara02.mp3",
+    "narration": "assets/audio/swara/swara02-narration.mp3",
+    "stroke": "assets/strokes/swara/swara02.svg"
+  },
+  {
+    "id": 3,
+    "letter": "ই",
+    "pronunciation": "I",
+    "word": "ইটা",
+    "english": "bricks",
+    "image": "assets/swara/swara03.png",
+    "audio": "assets/audio/swara/swara03.mp3",
+    "narration": "assets/audio/swara/swara03-narration.mp3",
+    "stroke": "assets/strokes/swara/swara03.svg"
+  },
+  {
+    "id": 4,
+    "letter": "ঈ",
+    "pronunciation": "EE",
+    "word": "ঈগল",
+    "english": "Eagle",
+    "image": "assets/swara/swara04.png",
+    "audio": "assets/audio/swara/swara04.mp3",
+    "narration": "assets/audio/swara/swara04-narration.mp3",
+    "stroke": "assets/strokes/swara/swara04.svg"
+  },
+  {
+    "id": 5,
+    "letter": "উ",
+    "pronunciation": "U",
+    "word": "উট",
+    "english": "Camel",
+    "image": "assets/swara/swara05.png",
+    "audio": "assets/audio/swara/swara05.mp3",
+    "narration": "assets/audio/swara/swara05-narration.mp3",
+    "stroke": "assets/strokes/swara/swara05.svg"
+  },
+  {
+    "id": 6,
+    "letter": "ঊ",
+    "pronunciation": "UU",
+    "word": "ঊণ",
+    "english": "Wool",
+    "image": "assets/swara/swara06.png",
+    "audio": "assets/audio/swara/swara06.mp3",
+    "narration": "assets/audio/swara/swara06-narration.mp3",
+    "stroke": "assets/strokes/swara/swara06.svg"
+  },
+  {
+    "id": 7,
+    "letter": "ঋ",
+    "pronunciation": "RI",
+    "word": "ঋষি",
+    "english": "Sage",
+    "image": "assets/swara/swara07.png",
+    "audio": "assets/audio/swara/swara07.mp3",
+    "narration": "assets/audio/swara/swara07-narration.mp3",
+    "stroke": "assets/strokes/swara/swara07.svg"
+  },
+  {
+    "id": 8,
+    "letter": "এ",
+    "pronunciation": "E",
+    "word": "এন্দুৰ",
+    "english": "Rat",
+    "image": "assets/swara/swara08.png",
+    "audio": "assets/audio/swara/swara08.mp3",
+    "narration": "assets/audio/swara/swara08-narration.mp3",
+    "stroke": "assets/strokes/swara/swara08.svg"
+  },
+  {
+    "id": 9,
+    "letter": "ঐ",
+    "pronunciation": "OI",
+    "word": "ঐৰাৱত",
+    "english": "Elephant",
+    "image": "assets/swara/swara09.png",
+    "audio": "assets/audio/swara/swara09.mp3",
+    "narration": "assets/audio/swara/swara09-narration.mp3",
+    "stroke": "assets/strokes/swara/swara09.svg"
+  },
+  {
+    "id": 10,
+    "letter": "ও",
+    "pronunciation": "O",
+    "word": "ওঁঠ",
+    "english": "Lip",
+    "image": "assets/swara/swara10.png",
+    "audio": "assets/audio/swara/swara10.mp3",
+    "narration": "assets/audio/swara/swara10-narration.mp3",
+    "stroke": "assets/strokes/swara/swara10.svg"
+  },
+  {
+    "id": 11,
+    "letter": "ঔ",
+    "pronunciation": "OU",
+    "word": "ঔষধ",
+    "english": "Medicine",
+    "image": "assets/swara/swara11.png",
+    "audio": "assets/audio/swara/swara11.mp3",
+    "narration": "assets/audio/swara/swara11-narration.mp3",
+    "stroke": "assets/strokes/swara/swara11.svg"
+  }
+]
