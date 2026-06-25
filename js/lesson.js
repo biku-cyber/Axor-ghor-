@@ -148,6 +148,15 @@ document
 "click",
 ()=>{
 
+const soundEnabled =
+localStorage.getItem(
+"soundEnabled"
+);
+
+if(soundEnabled==="false"){
+return;
+}
+
 let audio =
 new Audio(
 lessonData[index].audio
