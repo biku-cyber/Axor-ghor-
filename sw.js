@@ -42,7 +42,9 @@ const STATIC_FILES = [
 
 "/js/number-data.js",
 
-"/manifest.json"
+"/manifest.json",
+  
+"/offline.html"
 
 ];
 
